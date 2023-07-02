@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile page
+
+💡 I'm tech guy passionate about photography and generative art.
+
+🌱 I’m currently learning about ml, ai and data visualization.
+
+👓 9to5 woking with AWS, AZ and K8s

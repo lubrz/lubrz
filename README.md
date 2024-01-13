@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 Welcome to my profile page
 
-💡 I'm tech guy passionate about photography and generative art.
+💡 Tech guy passionate about photography and ml
 
-🌱 I’m currently learning about ml, ai and data visualization.
+😄 Pronouns: He/Him
 
-👓 9to5 woking with AWS, AZ and K8s
+🌱 Currently learning about transformers, graph-databases and LLM
+
+👓 9to5 woking as a DevOps Cloud Engineer

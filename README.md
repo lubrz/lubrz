@@ -21,6 +21,6 @@ Welcome to my profile page
 
 😄 Pronouns: He/Him
 
-🌱 Currently learning about transformers, graph-databases and LLM
+🌱 Currently learning about RAG and LLMs
 
-👓 9to5 woking as a DevOps Cloud Engineer
+👓 9to5 woking as a DevOps-Cloud Engineer

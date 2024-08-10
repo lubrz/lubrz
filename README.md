@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 Welcome to my profile page
 
-💡 Tech guy passionate about photography and ml
+💡 Tech guy passionate about photography and science
 
 😄 Pronouns: He/Him
 
-🌱 Currently learning about RAG and LLMs
+🌱 Currently learning about Neo4j, Graph DS and LLMs
 
 👓 9to5 woking as a DevOps-Cloud Engineer
